@@ -1,0 +1,35 @@
+- 👋 Hi, I’m @cutethan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+cutethan/cutethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+设置 代理 MTproto 三个空格爱着填
+
+server=198.211.40.223
+portw=443
+secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
+
+server=13.250.18.104
+port=8000
+secret=7msOwToMaS1Qlt4Wlw0vYDpzMy5hbWF6b25hd3MuY29t
+
+server=135.181.32.186
+port=88
+secret=7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
+
+
+
+server=178.62.225.104
+port=80
+secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuYmluZy5jb20
+
+
+server=54.255.248.199
+port=8443
+secret=7pJfEFXYX4UxjRGUkV4vWlphenVyZS5taWNyb3NvZnQuY29t
