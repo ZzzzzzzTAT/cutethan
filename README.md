@@ -9,7 +9,7 @@ cutethan/cutethan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-设置 代理 MTproto 三个空格爱着填
+设置 代理 MTproto 三个空格
 
 server=198.211.40.223
 portw=443
