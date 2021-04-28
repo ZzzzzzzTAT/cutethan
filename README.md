@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 复制粘贴 添加🚀
 
 
-trojan://2d8ecc18-f454-41ac-9071-05dae90a5094@112.13.205.161:14243/?allowInsecure=1&peer=internet-cloudflare-accelerate.tk&tfo=1
+trojan://d0487ffc-9d79-45e4-9145-fea498a8aa38@112.13.205.161:12743/?allowInsecure=1&peer=trojan-usa-9929.internet-cloudflare-accelerate.tk&tfo=1
 
 
 链上 到 群里自提 更多二维码 关闭内置的MT
