@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 trojan://2d8ecc18-f454-41ac-9071-05dae90a5094@112.13.205.161:14243/?allowInsecure=1&peer=internet-cloudflare-accelerate.tk&tfo=1
 
 
+链上 到 群里自提 更多二维码 关闭内置的MT
 tel 设置 代理 添加代理 选 MTproto 
 三个编辑框 编辑框  
 server port secret 挨着粘
