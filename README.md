@@ -15,6 +15,11 @@ You can click the Preview link to take a look at your changes.
 trojan://d0487ffc-9d79-45e4-9145-fea498a8aa38@112.13.205.161:12743/?allowInsecure=1&peer=trojan-usa-9929.internet-cloudflare-accelerate.tk&tfo=1
 
 
+vmess://YXV0bzoxNWE3NmM3NS1kYThhLTNkZTItYmRjMi0zYmJkMzg5ZDdlZTFAanBjNTI3MS5henppY28uc3BhY2U6MTE1NjI?remarks=Relay_%20%7C%205.18Mb&obfs=none&alterId=2
+
+
+vmess://YXV0bzo5YjBiMzljYS1iNTk0LTNiN2YtOTAyZC1kMTM0NGViZjAyZTdAanB6bi5zdHRjbG91ZC54eXo6NDAwMDM?remarks=Relay_%20%7C34.69Mb&obfs=none&alterId=2
+
 链上 到 群里自提 更多二维码 关闭内置的MT
 
 
@@ -27,17 +32,8 @@ server port secret 挨着粘
 
 粘贴蓝色链接 到 tel 任意聊天框 发送 点一下 就可以
 
-
-https://t.me/proxy?server=pasmamam.xn--6frz82g.iran009.ns2mamad.club.pasmamam.xn--6frz82g.&port=443&secret=dd00000000000000000000000000000000
-
-pasmamam.xn--6frz82g.iran009.ns2mamad.club.pasmamam.xn--6frz82g.
-
-443
-
-
-dd00000000000000000000000000000000
-
 https://t.me/proxy?server=157.90.251.36&port=443&secret=7gECAwQFBgcICQEAEQEgEwB3d3cuYmluZy5jb20
+
 
 157.90.251.36
 
