@@ -16,7 +16,10 @@ trojan://d0487ffc-9d79-45e4-9145-fea498a8aa38@112.13.205.161:12743/?allowInsecur
 
 
 链上 到 群里自提 更多二维码 关闭内置的MT
-tel 设置 代理 添加代理 选 MTproto 
+
+
+
+tel 设置 代理 添加代理 选 MT 
 三个编辑框 编辑框  
 server port secret 挨着粘
 
