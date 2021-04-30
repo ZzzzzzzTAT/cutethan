@@ -24,23 +24,41 @@ tel 设置 代理 添加代理 选 MT
 三个编辑框 编辑框  
 server port secret 挨着粘
 
+213.239.221.102
+
+88
+
+ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
+
+135.181.32.186
+
+88
+
+
+ee0000000000000000000000000000000073332e616d617a6f6e6177732e636f6d
+
+
+157.90.170.127
+
+443
+
+ee98aae3e11401969bad55118e0c3ee73873332e616d617a6f6e6177732e636f6d
+
+
+
+65.21.148.4
+
+443
+
+ee3cfc517d31501e7e2832ae5c5fd0de5b6f6b616c612e636f6d
+
+
+159.69.87.154
+
+443
+
+ee83e29319c1b8a7c8abb38061eae6f3537777772e626f6e626173742e636f6d
+
 或者
 
 粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以
-
-https://t.me/proxy?server=135.181.32.186&port=88&secret=7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
-
-
-https://t.me/proxy?server=13.250.58.38&port=8000&secret=7ufHpDeAlG%2BQ9J4QGzi8Qb5zMy5hbWF6b25hd3MuY29t
-
-
-https://t.me/proxy?server=65.21.153.203&port=443&secret=7qXOJ04yxXDy6AYWoNGz7V5kbC5nb29nbGUuY29t
-
-
-https://t.me/proxy?server=193.176.241.58&port=443&secret=7rJc31NLmTL5eReCJZJPndJ3d3cuZ29vZ2xlTmNvbQ
-
-
-https://t.me/proxy?server=157.90.251.36&port=443&secret=7gECAwQFBgcICQEAEQEgEwB3d3cuYmluZy5jb20
-
-
-https://t.me/proxy?server=88.80.191.80&port=85&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
