@@ -61,7 +61,7 @@ https://t.me/proxy?server=194.5.193.212&port=443&secret=7rRTkxhhH6XFtqhsIdidxelj
 https://t.me/proxy?server=194.5.192.78&port=443&secret=7stJorIGfK7OUC32ZjUbBYVjb2luZXguY29t
 
 https://t.me/proxy?server=194.5.192.78&port=443&secret=7stJorIGfK7OUC32ZjUbBYVjb2luZXguY29t
-fu
+
 https://t.me/proxy?server=144.76.156.229&port=88&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
 
 
