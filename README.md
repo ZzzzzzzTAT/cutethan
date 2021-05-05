@@ -9,6 +9,7 @@ cutethan/cutethan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 复制粘贴 添加🚀
 
 vmess://YXV0bzpmMjVmMTNjNS1jOTk0LTQ0ZDEtOWE5NC1jM2ZkZDZkZTA5NGFAMTE5LjE4OC45Ny4xOjgw?remarks=%E3%80%90%E4%B8%AD%E8%BD%AC%E3%80%91HK/%E9%A6%99%E6%B8%AF%20B%20-%20%E6%B5%8E%E5%8D%97%E8%81%94%E9%80%9A&obfsParam=002.cdn.8x.cx.hit.edu.cn&path=/&obfs=websocket&tfo=1&alterId=1
@@ -63,7 +64,7 @@ eeb4539318611fa5c5b6a86c21d89dc5e9636f696e65782e636f6d01
 ee271351607190071220852670505306697777772e636f6f6b69656c61772e6f7267
 
 
-
+⚙️ Setting — >上面一点有个 @Set use name 设置一个用户名 字母+数字—> 把 @zhcncc 发给Saved Massages 点 一下蓝色的 选 Change 
 
 或者
 
