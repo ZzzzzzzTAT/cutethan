@@ -29,7 +29,7 @@ tel 设置 代理 添加代理 选 MT
 
 第二个框填 port:xxx
 
-第三个框填 secret:xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+第三个框填 secret:xxxxxxxxxxxxxxxxxxx
 
 server= 130.185.121.250
 port= 443
