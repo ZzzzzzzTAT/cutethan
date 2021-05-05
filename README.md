@@ -40,15 +40,21 @@ port= 88
 secret= 7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
 
 server=194.5.193.212
+
 port=443
+
 secret=7rRTkxhhH6XFtqhsIdidxeljb2luZXguY29tAQ
 
 server=162.55.44.160
+
 port=443
+
 secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
 
 server=198.211.40.223
+
 port=443
+
 secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
 
 194.5.193.212  
@@ -63,6 +69,7 @@ eeb4539318611fa5c5b6a86c21d89dc5e9636f696e65782e636f6d01
 
 ee271351607190071220852670505306697777772e636f6f6b69656c61772e6f7267
 
+汉化
 
 ⚙️ Setting — >上面一点有个 @Set use name 设置一个用户名 字母+数字—> 把 @zhcncc 发给Saved Massages 点 一下蓝色的 选 Change 
 
