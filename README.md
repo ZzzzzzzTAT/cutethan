@@ -42,12 +42,11 @@ tel 设置 代理 添加代理 选 MT
 
 server= 144.76.156.229
 port= 88
-secret= 7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
+secret= ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
+
 
 server=194.5.193.212
-
 port=443
-
 secret=7rRTkxhhH6XFtqhsIdidxeljb2luZXguY29tAQ
 
 server=162.55.44.160
@@ -74,6 +73,13 @@ eeb4539318611fa5c5b6a86c21d89dc5e9636f696e65782e636f6d01
 
 ee271351607190071220852670505306697777772e636f6f6b69656c61772e6f7267
 
+
+144.76.156.229
+
+88
+
+ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
+
 汉化
 
 ⚙️ Setting — >上面一点有个 @Set use name 设置一个用户名 字母+数字—> 把 https://t.me/setlanguage/zhcncc    发给Saved Massages 点 一下蓝色的 选 Change
@@ -83,15 +89,16 @@ ee271351607190071220852670505306697777772e636f6f6b69656c61772e6f7267
 
 粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以
 
-https://t.me/proxy?server=135.181.32.186&port=88&secret=7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
+https://t.me/proxy?server=94.130.169.125&port=443&secret=7gEBAQEBAQEBAQEBAQEBAQFsaWIuYXJ2YW5jbG91ZC5jb20
 
-https://t.me/proxy?server=194.5.193.212&port=443&secret=7rRTkxhhH6XFtqhsIdidxeljb2luZXguY29t
+https://t.me/proxy?server=162.55.44.160&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
 
-https://t.me/proxy?server=194.5.192.78&port=443&secret=7stJorIGfK7OUC32ZjUbBYVjb2luZXguY29t
+https://t.me/proxy?server=194.5.193.212&port=443&secret=7rRTkxhhH6XFtqhsIdidxeljb2luZXguY29tAQ
 
-https://t.me/proxy?server=194.5.192.78&port=443&secret=7stJorIGfK7OUC32ZjUbBYVjb2luZXguY29t
+https://t.me/proxy?server=198.211.40.223&port=443&secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
 
 https://t.me/proxy?server=144.76.156.229&port=88&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
+
 
 
 
