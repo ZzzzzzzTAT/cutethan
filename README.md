@@ -16,7 +16,7 @@ vmess://YXV0bzpmMjVmMTNjNS1jOTk0LTQ0ZDEtOWE5NC1jM2ZkZDZkZTA5NGFAMTE5LjE4OC45Ny4x
 
 链上 到 群里自提 更多二维码 关闭内置的MT
 
-5.6日 1时
+5.8日 1时12分 更新的蓝色链接
 
 tel 设置 代理 添加代理 选 MT 
 
@@ -32,56 +32,16 @@ tel 设置 代理 添加代理 选 MT
 例:
 请仔细看 例子
 
-第一个框填 server:xxx.xx.xxx.xxx
+第一个框填 server=xxx.xx.xxx.xxx
 
-第二个框填 port:xxx
+第二个框填 port=xxx
 
-
-第三个框填 secret:xxxxxxxxxxxxxxxxxxx
-
-
-server= 144.76.156.229
-port= 88
-secret= ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
-
-
-server=194.5.193.212
-port=443
-secret=7rRTkxhhH6XFtqhsIdidxeljb2luZXguY29tAQ
-
-server=162.55.44.160
-
-port=443
-
-secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
+第三个框填 secret=xxxxxxxxxxxxxxxxxxx
+复制 = 后面的 如 复制 198.211.40.233 到 ✈️tel 的 Sever 一一对应 以此类推 触类旁通 举一反三 照猫画虎 依葫芦画瓢 挨着填完剩下的两个空
 
 server=198.211.40.223
-
 port=443
-
 secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
-
-194.5.193.212  
-
-443
-
-eeb4539318611fa5c5b6a86c21d89dc5e9636f696e65782e636f6d01
-
-198.211.40.223
-
-443
-
-ee271351607190071220852670505306697777772e636f6f6b69656c61772e6f7267
-
-
-
-
-144.76.156.229
-
-
-88
-
-ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
 
 汉化
 
@@ -90,7 +50,7 @@ ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
 
 或者
 
-粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以
+粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以了
 
 https://t.me/proxy?server=188.34.198.35&port=443&secret=7v977c7qF8bNBnfmBLN6chljc3Aud2l0aGdvb2dsZS5jb20
 
