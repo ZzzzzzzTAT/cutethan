@@ -51,20 +51,15 @@ secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
 或者
 
 粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以了
-
 https://t.me/proxy?server=104.149.148.150&port=8443&secret=7oGdFtjR0CD%2BuCs/n3i8%2BvNhbGliYWJhLmNvbQ
 
-https://t.me/proxy?server=51.83.106.218&port=22&secret=dda09812081a1d30f3245f24aab8ef4cf1
-
-https://t.me/proxy?server=116.202.178.174&port=443&secret=7hEQAAAAAAAREAAAAAAAARFjc3Aud2l0aGdvb2dsZS5jb20
+https://t.me/proxy?server=162.55.44.160&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
 
 https://t.me/proxy?server=116.202.181.254&port=8080&secret=7kRAAAAAAABEQAAAAAAABERhcnZhbmNsb3VkLmNvbQ
 
-https://t.me/proxy?server=78.46.223.4&port=443&secret=7sHrTzcrs2KiRAEjgYcvTilzMy5hbWF6b25hd3MuY29tAQ
-
-https://t.me/proxy?server=116.202.178.174&port=443&secret=7hEQAAAAAAAREAAAAAAAARFjc3Aud2l0aGdvb2dsZS5jb20
-
 https://t.me/proxy?server=198.211.40.223&port=443&secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
+
+https://t.me/proxy?server=104.149.148.150&port=8443&secret=7oGdFtjR0CD%2BuCs/n3i8%2BvNhbGliYWJhLmNvbQ
 
 
 
