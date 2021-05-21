@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 链上 到 群里自提 更多二维码 关闭内置的MT
 
-5.17日 20时32分 更新的蓝色链接
+5.21日 23时50分 更新的蓝色链接
 
 设置 代理 添加代理Add 选 MT proxy
 
