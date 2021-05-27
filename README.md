@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ssr://djFjbTA0LnB1ZmZ2aXAuY29tOjEwNzA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnBsYWluOlVHRnZablUvP3JlbWFya3M9VzNZeVhTRGxqN0RtdWI0d01RJnByb3RvcGFyYW09TlRBM05qUTZNRFo2WVRCdU56VTFOSEkwJm9iZnNwYXJhbT1aamN3TVRVMU1EYzJOQzV0YVdOeWIzTnZablF1WTI5dA
 
-链上 到 群里自提 更多二维码 关闭内置的MT
 
 5.21日 23时50分 更新的蓝色链接
 
