@@ -65,8 +65,6 @@ secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
 
 粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以了
 
-https://t.me/proxy?server=65.21.176.142&port=443&secret=7ttvTX3hyCjPpKAqcvEk%2BCV3d3cubXNuLmNvbS9lbi14bC8
 
 https://t.me/proxy?server=198.211.40.223&port=443&secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
 
-https://t.me/proxy?server=116.203.12.233&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbC5nb29nbGUuY29t
