@@ -64,6 +64,8 @@ dd00000000000000000000000000000000
 
 粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以了
 
+https://t.me/proxy?server=136.243.158.9&port=443&secret=7ti8r/nOisGaphuxt47qsARzMy5hbWF6b25hd3MuY29t
 
 https://t.me/proxy?server=168.119.97.119&port=88&secret=dd00000000000000000000000000000000
 
+https://t.me/proxy?server=135.181.99.37&port=443&secret=dd00000000000000000000000000000000
