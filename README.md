@@ -43,18 +43,17 @@ ssr://Y25yZWxheWNtLnByb2NuY29uLnh5ejoxMDE2OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZX
 例:
 请仔细看 例子
 
-第一个框填 server=xxx.xx.xxx.xxx
+第一个框填 server 里填xxx.xx.xxx.xxx
 
-第二个框填 port=xxx
+第二个框填 port 里填xxx
 
-第三个框填 secret=xxxxxxxxxxxxxxxxxxx
-复制 = 后面的 如 复制 198.211.40.233 到 ✈️tel 的 Sever 一一对应 以此类推 触类旁通 举一反三 照猫画虎 依葫芦画瓢 挨着填完剩下的两个空
+第三个框填 secret 里填xxxxxxxxxxxxxxxxxxx
 
-server=198.211.40.223
+168.119.97.119
 
-port=443
+88
 
-secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
+dd00000000000000000000000000000000
 
 汉化
 
@@ -66,5 +65,5 @@ secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
 粘贴蓝色链接 到 Telegram 任意聊天框 发送 点一下 就可以了
 
 
-https://t.me/proxy?server=198.211.40.223&port=443&secret=7icTUWBxkAcSIIUmcFBTBml3d3cuY29va2llbGF3Lm9yZw
+https://t.me/proxy?server=168.119.97.119&port=88&secret=dd00000000000000000000000000000000
 
