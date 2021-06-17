@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 6.17日 更新
 
-1.密钥 前 添加 “酸酸乳” 3个汉字首字母 小写 
+1.密钥 前 添加 “酸酸乳” 3个汉字首字母 小写 + ://
 
 2.复制 打开 “容器”
 
