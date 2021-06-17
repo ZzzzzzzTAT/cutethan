@@ -9,10 +9,13 @@ cutethan/cutethan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-1.密钥 前 添加ssr://  6.17日 更新
-2.复制 打开 容器
+6.17日 更新
+
+1.密钥 前 添加 “酸酸乳” 3个汉字首字母 小写 
+2.复制 打开 “容器”
 3.点添加
-4.依次 复制 下面每一段 再打开 添加 之前不能用的删了 
+4.依次 复制 下面每一段密钥 再打开容器  点添加 把之前的清楚
+复制密钥:
 
 djFjbTAzLnB1ZmZ2aXAuY29tOjEwNTI6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnBsYWluOlVHRnZablUvP3JlbWFya3M9VzNZeVhTRHBwcG5tdUs4eE9BJnByb3RvcGFyYW09TlRBM05qUTZNRFo2WVRCdU56VTFOSEkwJm9iZnNwYXJhbT1aamN3TVRVMU1EYzJOQzV0YVdOeWIzTnZablF1WTI5dA
 
