@@ -72,6 +72,7 @@ dd00000000000000000000000000000000
 
 https://t.me/proxy?server=136.243.158.9&port=443&secret=7ti8r/nOisGaphuxt47qsARzMy5hbWF6b25hd3MuY29t
 
-https://t.me/proxy?server=157.90.16.140&port=443&secret=7sJUorfzCArG/5Rl7vjmRuRJcmFuY2VsbC5pcg
+
+https://t.me/proxy?server=95.216.152.166&port=443&secret=7c4481426688d082d22e155c77c9f17b
 
 
